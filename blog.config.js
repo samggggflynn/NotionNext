@@ -1,6 +1,6 @@
 // 注: process.env.XX是Vercel的环境变量，配置方式见：https://docs.tangly1024.com/zh/features/personality
 const BLOG = {
-  AUTHOR: 'XC L', // 作者
+  AUTHOR: 'C on Earth-616', // 作者
   BIO: 'A dizzy head 😝', // 作者简介
   LINK: 'https://samgggg.ml', // 网站地址
   KEYWORDS: '部落格,blog', // 网站关键词 英文逗号隔开
