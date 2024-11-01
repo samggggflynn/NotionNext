@@ -2,8 +2,8 @@
 const BLOG = {
   AUTHOR: 'C on Earth-616', // 作者
   BIO: 'A dizzy head 😝', // 作者简介
-  LINK: 'https://blog.samgggg.ml', // 网站地址
-  KEYWORDS: '部落格,blog,samgggg', // 网站关键词 英文逗号隔开
+  LINK: 'https://blog.realxc.us.kg', // 网站地址
+  KEYWORDS: '部落格,blog,relaxc,samgggg', // 网站关键词 英文逗号隔开
   NOTION_PAGE_ID:
   process.env.NOTION_PAGE_ID || 'e8000275ac4b41578bbff9cb413ed30a', // Important page_id！！！Duplicate Template from  https://www.notion.so/tanghh/02ab3b8678004aa69e9e415905ef32a5
   NOTION_ACCESS_TOKEN: process.env.NOTION_ACCESS_TOKEN || '', // Useful if you prefer not to make your database public
